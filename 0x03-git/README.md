@@ -1,0 +1,1 @@
+This directory gives some basic git commands
